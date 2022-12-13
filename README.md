@@ -2,7 +2,7 @@
 🔭Currently learning some interesting stuff around Fullstack Development<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning JavaScript, TypeScript, React, MongoDB and some more...<br><br>⚡ Fun fact<br>Before I fell in love with programming I wanted to be an engineer, but physics is not my thing...<br>
 
 # 💫 Sobre mim:
-🔭Atualmente aprendendo algumas coisas interessantes sobre Desenvolvimento Fullstack<br>👯 Estou procurando colaborar em<br>🌱 Atualmente estou aprendendo JavaScript, TypeScript, React, MongoDB e mais...<br><br>⚡ Fato engraçado:<br>Antes de me apaixonar por programação eu queria ser engenheiro, mas física não é minha praia...<br>
+🔭Atualmente aprendendo algumas coisas interessantes sobre Desenvolvimento Fullstack<br>👯 Estou procurando colaborar em<br>🌱 Atualmente estou aprendendo JavaScript, TypeScript, React, MongoDB e mais...<br><br>⚡ Fato engraçado<br>Antes de me apaixonar por programação eu queria ser engenheiro, mas física não é minha praia...<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samuel-messias-b35189211/) 
